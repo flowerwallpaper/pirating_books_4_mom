@@ -17,5 +17,5 @@ Click the title of the book, and it'll take you to a page like this. Then, you'l
 That will take you to a page like this, and then you click get, which will download the book. 
 <img width="533" alt="Screenshot 2023-05-31 at 4 55 09 PM" src="https://github.com/flowerwallpaper/pirating_books_4_mom/assets/103080777/ea3d91fc-4280-4d39-8643-7eac116b00f0">
 <br>
-If you're on your computer, the download will pop up, and clicking it will automatically open it in books or in browser depending on if it's an EPUB or PDF. 
+If you're on your computer, the download will pop up, and clicking it will automatically open it in books or in browser depending on if it's an EPUB or PDF. If you're on your phone, a blue arrow thing will come up. You'll click that, click downloads, click the book, and then it'll open. Good job, you did it, you got a free book B)))
 
